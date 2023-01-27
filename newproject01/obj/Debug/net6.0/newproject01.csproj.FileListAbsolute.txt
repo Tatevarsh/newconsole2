@@ -1,0 +1,15 @@
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\obj\Debug\net6.0\newproject01.csproj.AssemblyReference.cache
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\obj\Debug\net6.0\newproject01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\obj\Debug\net6.0\newproject01.AssemblyInfoInputs.cache
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\obj\Debug\net6.0\newproject01.AssemblyInfo.cs
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\obj\Debug\net6.0\newproject01.csproj.CoreCompileInputs.cache
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\bin\Debug\net6.0\newproject01.exe
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\bin\Debug\net6.0\newproject01.deps.json
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\bin\Debug\net6.0\newproject01.runtimeconfig.json
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\bin\Debug\net6.0\newproject01.dll
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\bin\Debug\net6.0\newproject01.pdb
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\obj\Debug\net6.0\newproject01.dll
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\obj\Debug\net6.0\refint\newproject01.dll
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\obj\Debug\net6.0\newproject01.pdb
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\obj\Debug\net6.0\newproject01.genruntimeconfig.cache
+C:\Users\tshav\OneDrive\Рабочий стол\forC#\newproject01\obj\Debug\net6.0\ref\newproject01.dll
